@@ -18,14 +18,16 @@ Activity 4
 Teammates repo: https://github.com/davidYichengWei/ECE444-F2022-Lab1
 
 Change by me:
-<img width="1440" alt="Screen Shot 2022-09-21 at 12 38 29 PM" src="https://user-images.githubusercontent.com/41162261/191562786-002f89fd-9e22-4216-b9d9ch-4647efbb7b75.png">
+
+<img width="1440" alt="Screen Shot 2022-09-21 at 12 38 29 PM" src="https://user-images.githubusercontent.com/41162261/191565112-7803ce41-2627-4b40-a27f-5dbfadfcaae3.png">
 
 Change by teammate:
+
 <img width="1440" alt="Screen Shot 2022-09-21 at 12 37 54 PM" src="https://user-images.githubusercontent.com/41162261/191562906-69deb459-6881-4434-9e7c-6a7cee55b8d9.png">
 
 Activity 5
 
-<img width="1440" alt="Screen Shot 2022-09-21 at 10 33 48 AM" src="https://user-images.githubusercontent.com/41162261/191533679-52f9bcd2-37c7-4b81-bb07-666e1576082e.png">
+<img width="628" alt="Screen Shot 2022-09-21 at 10 33 48 AM" src="https://user-images.githubusercontent.com/41162261/191564979-65df95c6-bb6b-4869-bc4d-3c93809338b7.png">
 
 Activity 6
 
