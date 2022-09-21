@@ -6,6 +6,9 @@ Sakib Junaed
 
 Activity 2
 
+<img width="648" alt="Output of merge command" src="https://user-images.githubusercontent.com/41162261/191563781-8fd9dfc1-28a5-41df-96f8-d599873c796c.png">
+
+
 Activity 3
 
 <img width="1440" alt="Screen Shot 2022-09-20 at 11 17 01 PM" src="https://user-images.githubusercontent.com/41162261/191406672-ea8c8ba9-3035-4c08-b733-e37bacc1cb0f.png">
