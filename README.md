@@ -1,3 +1,3 @@
 Sakib Junaed
 
-![Alt text](/Users/sakibjunaed/Screenshot1.png "Screenshot")
+![Alt text](/Users/sakibjunaed/Screenshot1.png)
