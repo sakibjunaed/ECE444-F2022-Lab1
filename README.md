@@ -1,4 +1,3 @@
 Sakib Junaed
 
-![SS](https://www.dropbox.com/s/l8x0z1z8pk3a9rl/Screen%20Shot%202022-09-20%20at%209.51.57%20PM.png?dl=0)
-
+<img width="1440" alt="Screen Shot 2022-09-20 at 9 51 59 PM" src="https://user-images.githubusercontent.com/41162261/191404360-e0fbe65a-bdbc-4d74-97cd-a237b46a30b7.png">
