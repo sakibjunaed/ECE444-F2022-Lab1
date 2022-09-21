@@ -13,3 +13,7 @@ https://github.com/sakibjunaed/ECE444-F2022-EP
 <img width="776" alt="Screen Shot 2022-09-21 at 11 08 50 AM" src="https://user-images.githubusercontent.com/41162261/191547831-e168b2d1-badb-475e-b3d2-f9d2f1c9b004.png">
 
 <img width="1440" alt="Screen Shot 2022-09-21 at 11 28 27 AM" src="https://user-images.githubusercontent.com/41162261/191546550-b31e4803-dea3-433f-81aa-765f70d0e9ef.png">
+
+<img width="1440" alt="Screen Shot 2022-09-21 at 12 23 05 PM" src="https://user-images.githubusercontent.com/41162261/191559661-be5eca5e-c0c6-4f37-9762-55e4ac24afb6.png">
+
+<img width="710" alt="Screen Shot 2022-09-21 at 12 26 37 PM" src="https://user-images.githubusercontent.com/41162261/191559689-d0117869-0f01-49c8-a91f-f1d41e928388.png">
